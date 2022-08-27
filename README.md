@@ -36,5 +36,5 @@ Demo materials represent some usecases, from standard shaders to toon, or revers
 ## Screenshots
 <p align="center">
   <img src="https://github.com/MPrzekop/Gradient-based-stylized-shader/blob/images/Images/Point.gif" width="400" title="point lights demo">
-  <img src="https://github.com/MPrzekop/Gradient-based-stylized-shader/blob/images/Images/Cover.gif" width="700" title="Spheres with different materials on them">
+  <img src="https://github.com/MPrzekop/Gradient-based-stylized-shader/blob/images/Images/Cover.gif" width="400" title="Spheres with different materials on them">
 </p>
