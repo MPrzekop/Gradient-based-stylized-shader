@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 7906df5cb43824045b0a772a115caa48
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _FresnelGradient: {fileID: 28193875015134194, guid: 0a0a1576cfd406f4c84d80ac135f8cb6, type: 2}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
