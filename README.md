@@ -2,7 +2,7 @@
 
 Shading model which remaps light values to gradient values. Perfect for art styles that are hard to describe with math.
 <p align="center">
-  <img src="https://github.com/MPrzekop/Gradient-based-stylized-shader/blob/images/Images/Cover.gif" width="700" title="Spheres with different materials on them">
+  <img src="https://github.com/MPrzekop/Gradient-based-stylized-shader/blob/images/Images/models.png" width="400" title="Image with guitar and can">
 </p>
  
 ## Instalation
@@ -13,7 +13,7 @@ Go to `Window -> Package Manager` and add from git [URL](https://docs.unity3d.co
 
 ## How To Use
 <p align="center">
-  <img src="https://github.com/MPrzekop/Gradient-based-stylized-shader/blob/images/Images/Editor.png" width="700" title="Material inspector">
+  <img src="https://github.com/MPrzekop/Gradient-based-stylized-shader/blob/images/Images/Editor.png" width="400" title="Material inspector">
 </p>
 ### New Material
 Create material using `Przekop/Custom Lighting/Gradient Shading` shader, it will be set up with basic gradients.
@@ -35,6 +35,6 @@ Demo materials represent some usecases, from standard shaders to toon, or revers
 
 ## Screenshots
 <p align="center">
-  <img src="https://github.com/MPrzekop/Gradient-based-stylized-shader/blob/images/Images/Point.gif" width="700" title="point lights demo">
-  <img src="https://github.com/MPrzekop/Gradient-based-stylized-shader/blob/images/Images/models.png" width="700" title="Image with guitar and can">  
+  <img src="https://github.com/MPrzekop/Gradient-based-stylized-shader/blob/images/Images/Point.gif" width="400" title="point lights demo">
+  <img src="https://github.com/MPrzekop/Gradient-based-stylized-shader/blob/images/Images/Cover.gif" width="700" title="Spheres with different materials on them">
 </p>
