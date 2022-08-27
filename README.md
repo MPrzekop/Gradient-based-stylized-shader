@@ -2,7 +2,7 @@
 
 Shading model which remaps light values to gradient values. Perfect for art styles that are hard to describe with math.
 <p align="center">
-  <img src="https://github.com/MPrzekop/Gradient-based-stylized-shader/blob/images/Images/models.png" width="400" title="Image with guitar and can">
+  <img src="https://github.com/MPrzekop/Gradient-based-stylized-shader/blob/images/Images/models.png" height="400" title="Image with guitar and can">
 </p>
  
 ## Instalation
