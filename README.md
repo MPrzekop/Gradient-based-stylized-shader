@@ -12,9 +12,11 @@ Go to `Window -> Package Manager` and add from git [URL](https://docs.unity3d.co
 `https://github.com/MPrzekop/Gradient-based-stylized-shader.git`
 
 ## How To Use
+
 <p align="center">
   <img src="https://github.com/MPrzekop/Gradient-based-stylized-shader/blob/images/Images/Editor.png" width="400" title="Material inspector">
 </p>
+
 ### New Material
 Create material using `Przekop/Custom Lighting/Gradient Shading` shader, it will be set up with basic gradients.
 
