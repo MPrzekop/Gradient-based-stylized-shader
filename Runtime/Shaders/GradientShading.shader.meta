@@ -3,7 +3,14 @@ guid: 7906df5cb43824045b0a772a115caa48
 ShaderImporter:
   externalObjects: {}
   defaultTextures:
-  - _FresnelGradient: {fileID: 28193875015134194, guid: 0a0a1576cfd406f4c84d80ac135f8cb6, type: 2}
+  - _MainTexture: {instanceID: 0}
+  - _NormalMap: {instanceID: 0}
+  - _DiffuseGradient: {fileID: 2800000, guid: 1c5f38d4b1a074b479a821c5b2aa2ff4, type: 3}
+  - _Smoothness: {instanceID: 0}
+  - _SpecularGradient: {fileID: 2800000, guid: 1c5f38d4b1a074b479a821c5b2aa2ff4, type: 3}
+  - _EmissionMap: {instanceID: 0}
+  - _FresnelGradient: {fileID: 2800000, guid: 1c5f38d4b1a074b479a821c5b2aa2ff4, type: 3}
+  - _texcoord: {instanceID: 0}
   nonModifiableTextures: []
   preprocessorOverride: 0
   userData: 
