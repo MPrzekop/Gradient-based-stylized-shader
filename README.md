@@ -7,7 +7,7 @@ Shading model which remaps light values to gradient values. Perfect for art styl
  
 
 ## Features
-* Shader model based on [Blinn-Phong reflection model](https://en.wikipedia.org/wiki/Blinn%E2%80%93Phong_reflection_model) with added fresnel based smoothness, ambient lighting and fresnel highlights
+* Shader model based on [Blinn-Phong reflection model](https://en.wikipedia.org/wiki/Blinn%E2%80%93Phong_reflection_model) with added fresnel based specular, ambient lighting and fresnel highlights
 * Selectable shader features (specular highlights, emission, ambient, fresnel)
 * Normal/smoothness/emission map support
 * Support for forward shading only
