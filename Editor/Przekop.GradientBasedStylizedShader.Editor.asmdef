@@ -1,8 +1,12 @@
 {
-    "name": "Organization.Package",
+    "name": "Przekop.GradientBasedStylizedShader.Editor",
     "rootNamespace": "",
-    "references": [],
-    "includePlatforms": [],
+    "references": [
+        "Przekop.GradientBasedStylizedShader"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
