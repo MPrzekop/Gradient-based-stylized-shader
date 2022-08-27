@@ -22,7 +22,7 @@ Go to `Window -> Package Manager` and add from git [URL](https://docs.unity3d.co
 
 ### Demo resources
 
-In the Samples folder is package containing 2 scenes, 14 materials and 6 sample gradients.
+In the Samples folder there is a demo package containing 2 scenes, 14 materials and 6 sample gradients.
 
 ## How To Use
 
